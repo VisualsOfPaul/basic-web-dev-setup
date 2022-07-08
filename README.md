@@ -6,8 +6,6 @@ This repository represents my Basic Web Development Setup. This environment is b
 
 ## <b>How to use this setup</b>
 
-<br>
-
 ### <b>Initialize Vite</b>
 
 To use the environment, Vite needs to be initialized with the following command.
